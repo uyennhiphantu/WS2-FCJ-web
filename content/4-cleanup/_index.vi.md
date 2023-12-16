@@ -22,6 +22,9 @@ Chúng ta sẽ tiến hành các bước sau để xóa các tài nguyên chúng
 ![Alt text](<hinh 78.png>)
 
 #### Xóa Cloudformation
-1. Truy cập [giao diện quản trị dịch vụ Cloudformation](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks?filteringText=&filteringStatus=active&viewNested=true). Sau đó chúng ta sẽ thấy mục stack đã tạo 
+1. Truy cập [giao diện quản trị dịch vụ Cloudformation](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks?filteringText=&filteringStatus=active&viewNested=true). Sau đó chúng ta sẽ thấy mục stack đã tạo *athena-workshop*
 ![Alt text](<hinh 73.png>)
-2. 
+2. Chọn *athena-workshop* sau đó nhấn Delete
+![Alt text](<hinh 79.png>)
+
+Vậy là chúng ta đã hoàn thành xong bài Workshop cơ bản của Amazon Athena.

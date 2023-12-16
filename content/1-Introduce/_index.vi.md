@@ -12,8 +12,8 @@ Trong bài lab này, chúng ta sẽ tìm hiểu các khái niệm cơ bản và 
 
 ### Nội dung
 
- 1. [Giới thiệu](1-introduce/)
- 2. [Các bước chuẩn bị](2-Prerequiste/)
- 3. [Athena Basics](3-Accessibilitytoinstance/)
- 4. [Dọn dẹp tài nguyên](3-Accessibilitytoinstance/)
+ 1. [Giới thiệu](/vi/1-introduce/)
+ 2. [Các bước chuẩn bị](/vi/2-prepare)
+ 3. [Athena Basics](/vi/3-basics)
+ 4. [Dọn dẹp tài nguyên](/vi/4-cleanup)
 
